@@ -1,4 +1,3 @@
-//test test test
 let myLibrary = [];
 let printCount = 0;
 let totalBooks = 0;
